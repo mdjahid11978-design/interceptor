@@ -10,7 +10,7 @@
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^3.0.2",
     "@wrkspace-co/interceptor": "file:../..",
-    "svelte": "^4.2.19",
+    "svelte": "^5.55.5",
     "typescript": "^5.7.3",
     "vite": "^6.4.1"
   }
